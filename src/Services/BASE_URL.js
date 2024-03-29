@@ -1,1 +1,1 @@
-export const BASE_URL = "http://localhost:3000"
+export const BASE_URL = "https://teacher-server-rme1.onrender.com"
