@@ -4,13 +4,13 @@ import { BASE_URL } from "./BASE_URL";
 
 export const getuserdata = async (data)=>{
 
-  return await CommonApi('POST',`${BASE_URL}/user`,data)
+  return await CommonApi('POST',`${BASE_URL}/Userdata`,data)
 
 }
 
 export const showuserdata = async ()=>{
 
-  return await CommonApi('GET',`${BASE_URL}/user`,"")
+  return await CommonApi('GET',`${BASE_URL}/Userdata`,"")
 
 }
 
