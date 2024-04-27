@@ -1,1 +1,1 @@
-export const BASE_URL = "https://teacher-server-rme1.onrender.com"
+export const BASE_URL = "https://netflix-user-server.onrender.com"

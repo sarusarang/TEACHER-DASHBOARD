@@ -113,8 +113,6 @@ function Createaccount() {
 
         e.preventDefault()
 
-
-
     }
 
 
